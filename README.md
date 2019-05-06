@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # get-commits
 
 ## Getting Started
@@ -11,3 +12,6 @@ allow templating of customInitContainers (#13536)
 fix #13467 (wrong deprecation message) (#13511)
 Correct customInitContainers Name example. (#13405)
 ```
+=======
+# get-commits
+>>>>>>> f5ebb87fbe5f0efc1a1b22f1f08198e4eb41a020
