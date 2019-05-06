@@ -1,5 +1,7 @@
 # get-commits
 
+The script lists commits on [helm/charts](https://github.com/helm/charts) repository by invoking [GitHub API](https://developer.github.com/v3/repos/commits/#list-commits-on-a-repository)
+
 ## Getting Started
 
 ```bash
